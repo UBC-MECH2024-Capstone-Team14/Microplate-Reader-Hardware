@@ -4,9 +4,9 @@ This is the hardware subsystem of the [Microplate-Reader](https://github.com/UBC
 
 ## LED Driver
 
-The [LED driver](./LED%20Driver/) is a PCB board containing 8 [CN5711](https://www.hestore.hu/prod_getfile.php?id=12002) LED driver ICs. It can control the LED intensities independently through PWM.
+The [LED driver](./LED%20Driver/) is a PCB board containing 8 [CN5711](https://www.hestore.hu/prod_getfile.php?id=12002) LED driver ICs. It can control the LED intensities independently through PWM. It is drawn using EasyEDA.
 
-## Photodidoe Amplifier
+## Photodiode Amplifier
 
 The photodiode amplifier is a circuit to convert photodiode current to voltage for the MCU ADC to sample. We use a photovoltaic circuit built on a breadboard with general-purpose op-amps (MCP6002).
 
@@ -14,13 +14,16 @@ The photodiode amplifier is a circuit to convert photodiode current to voltage f
 
 ## LED & Photodiode PCB
 
+The [LED](./LED_Board/) and [photodiode](./Photodiode_Board/) are two PCB boards meant to work together to cover a row of 8 wells in a 96-well microplate. They are drawn from Altium Designer student edition.
+
 ## [TMC5130ABOB](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/tmc5130a-bob.html)
 
 This is the stepper motor driver.
 
 ## Power Supply
 
-We selected a [12V wall plug](https://www.amazon.ca/Universal-adapters-Converter-Inverter-Transformer/dp/B08CXND8ZK) for the stepper motor driver and a [DC-DC converter](https://www.amazon.ca/DROK-Waterproof-Converter-Adjustable-Transformer/dp/B00C0KL1OM) to provide 5V for the LED driver.
+- A [12V wall plug](https://www.amazon.ca/Universal-adapters-Converter-Inverter-Transformer/dp/B08CXND8ZK) for the stepper motor driver
+- A [DC-DC converter](https://www.amazon.ca/DROK-Waterproof-Converter-Adjustable-Transformer/dp/B00C0KL1OM) to provide 5V for the LED driver
 
 ## Misc
 
