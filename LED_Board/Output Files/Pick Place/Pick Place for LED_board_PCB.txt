@@ -1,0 +1,25 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\LED_Board_Capstone_T14\Project Outputs for LED_Board_Capstone_T14\Pick Place\Pick Place for LED_board_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       16-02-24
+Time:       19:20
+Revision:   1ef17b48644a42225a12d790d63f6061c117f51f
+Variant:    No variations
+Units used: mil
+
+Designator Comment             Layer       Footprint               Center-X(mil) Center-Y(mil) Rotation Description                   
+J4         PEC06SBBN           TopLayer    FP-PEC06SBBN-MFG        3498.426      981.890       180      "CONN HEADER R/A 6POS 2.54MM" 
+J3         PEC06SBBN           TopLayer    FP-PEC06SBBN-MFG        811.812       981.890       180      "CONN HEADER R/A 6POS 2.54MM" 
+J2         PEC06SBBN           TopLayer    FP-PEC06SBBN-MFG        3498.426      159.842       0        "CONN HEADER R/A 6POS 2.54MM" 
+J1         PEC06SBBN           TopLayer    FP-PEC06SBBN-MFG        811.812       159.842       0        "CONN HEADER R/A 6POS 2.54MM" 
+D8         SST-10-SB-B130-M470 BottomLayer LED_SST-10-SB-B130-M470 3395.276      572.953       270      ""                            
+D7         SST-10-SB-B130-M470 BottomLayer LED_SST-10-SB-B130-M470 3040.944      572.953       270      ""                            
+D6         SST-10-SB-B130-M470 BottomLayer LED_SST-10-SB-B130-M470 2686.614      572.953       270      ""                            
+D5         SST-10-SB-B130-M470 BottomLayer LED_SST-10-SB-B130-M470 2332.284      572.953       270      ""                            
+D4         SST-10-SB-B130-M470 BottomLayer LED_SST-10-SB-B130-M470 1977.952      572.953       270      ""                            
+D3         SST-10-SB-B130-M470 BottomLayer LED_SST-10-SB-B130-M470 1623.622      572.953       270      ""                            
+D2         SST-10-SB-B130-M470 BottomLayer LED_SST-10-SB-B130-M470 1269.292      572.953       270      ""                            
+D1         SST-10-SB-B130-M470 BottomLayer LED_SST-10-SB-B130-M470 914.960       572.953       270      ""                            
